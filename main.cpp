@@ -1,6 +1,5 @@
-int main()
+bool main()
 {
     perfect now;
 }
 
-void Test();
