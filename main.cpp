@@ -1,4 +1,4 @@
-void main()
+bool main()
 {
     perfect now;
 }
