@@ -1,5 +1,5 @@
 bool main()
 {
-    perfect now;
+    perfect now
 }
 
